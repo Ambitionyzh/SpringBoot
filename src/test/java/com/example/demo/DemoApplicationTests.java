@@ -18,6 +18,7 @@ class DemoApplicationTests {
         book.setType("wuhu");
         book.setDescription("wuhu");
         mongoTemplate.save(book);
+
     }
 
 }
