@@ -10,7 +10,4 @@ public class Book {
     private String type;
     private String description;
 
-
-
-
 }
