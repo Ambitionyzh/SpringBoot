@@ -2,3 +2,6 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost/wuhu
+tools:
+  ip:
+    cycle: 5
